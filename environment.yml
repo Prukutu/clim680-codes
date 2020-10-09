@@ -21,3 +21,8 @@ dependencies:
   - ipywidgets
   - eofs 
   - hvplot
+  - boto3
+  - botocore
+  - intake
+  - intake-esm
+
