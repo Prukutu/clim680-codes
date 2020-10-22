@@ -1,2 +1,5 @@
 tests/
 src/.ipynb_checkpoints/
+in-class/*
+src/dask-worker-space/
+src/Untitled*.ipynb

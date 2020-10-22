@@ -3,8 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - jupyterlab=1.2.5
-  - jupyter_client=5.3.1
+  - jupyterlab
+  - jupyter_client
   - nbserverproxy
   - netcdf4
   - metpy
@@ -23,6 +23,10 @@ dependencies:
   - hvplot
   - boto3
   - botocore
+  - xesmf
+  - esmpy<=7.1.0
   - intake
   - intake-esm
+  - gcsfs
+  - zarr
 
